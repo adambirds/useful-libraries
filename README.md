@@ -10,3 +10,7 @@ List of useful libraries/Modules so I don't forget them.
 
 * [ImportExcel](https://github.com/dfinke/ImportExcel) - Export to Excel
 * [JiraPS](https://github.com/AtlassianPS/JiraPS) - Commands to interact with Jira
+
+## Documentation
+
+* [mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation Site from Markdown
